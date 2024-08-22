@@ -13,3 +13,7 @@ Utilized a custom PowerShell script to extract and forward Windows Event Viewer 
 ## Utilities
 
 **ipgeolocation.io:** IP Address to Geolocation API
+
+## PowerShell Script Generating Custom Logs with the Geodata
+
+## Microsoft Sentinel World Map Displaying RDP Attacks and the Magnitude on the VM
