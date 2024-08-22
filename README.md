@@ -20,4 +20,4 @@ Utilized a custom PowerShell script to extract and forward Windows Event Viewer 
 
 ## Microsoft Sentinel World Map Displaying RDP Attacks and their Magnitude on the VM
 
-![World Map of RDP Attacks on V](https://github.com/AaronRMartinez/Microsoft-Sentinel-Home-Lab/blob/main/Microsoft_Sentinel_World_Map_Failed_RDP.jpg)
+![World Map of RDP Attacks on VM](https://github.com/AaronRMartinez/Microsoft-Sentinel-Home-Lab/blob/main/Microsoft_Sentinel_World_Map_RDP_Attacks.jpg)
