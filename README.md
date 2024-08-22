@@ -6,4 +6,4 @@
 
 ## Languages Used
 
-**PowerShell** Script used to extract and forward Windows Event Viewer metadata of RDP failed logon logs
+**PowerShell:** Script used to extract and forward Windows Event Viewer metadata of RDP failed logon logs
