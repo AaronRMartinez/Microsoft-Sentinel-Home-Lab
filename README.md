@@ -18,4 +18,6 @@ Utilized a custom PowerShell script to extract and forward Windows Event Viewer 
 
 ![PowerShell Script Screenshot](https://github.com/AaronRMartinez/Microsoft-Sentinel-Home-Lab/blob/main/AzureSIEM_Powershell_Log_Exporter.jpg)
 
-## Microsoft Sentinel World Map Displaying RDP Attacks and the Magnitude on the VM
+## Microsoft Sentinel World Map Displaying RDP Attacks and their Magnitude on the VM
+
+![World Map of RDP Attacks on V](https://github.com/AaronRMartinez/Microsoft-Sentinel-Home-Lab/blob/main/Microsoft_Sentinel_World_Map_Failed_RDP.jpg)
